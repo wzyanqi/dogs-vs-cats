@@ -1,0 +1,41 @@
+Train on 19945 samples, validate on 4987 samples
+Epoch 1/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.1761 - acc: 0.9323
+Epoch 00001: val_loss improved from inf to 0.04538, saving model to model_best.h5
+19945/19945 [==============================] - 5182s 260ms/step - loss: 0.1762 - acc: 0.9323 - val_loss: 0.0454 - val_acc: 0.9880
+Epoch 2/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0691 - acc: 0.9755
+Epoch 00002: val_loss improved from 0.04538 to 0.03252, saving model to model_best.h5
+19945/19945 [==============================] - 5002s 251ms/step - loss: 0.0691 - acc: 0.9755 - val_loss: 0.0325 - val_acc: 0.9908
+Epoch 3/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0515 - acc: 0.9810
+Epoch 00003: val_loss improved from 0.03252 to 0.02635, saving model to model_best.h5
+19945/19945 [==============================] - 5040s 253ms/step - loss: 0.0515 - acc: 0.9810 - val_loss: 0.0264 - val_acc: 0.9916
+Epoch 4/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0395 - acc: 0.9854
+Epoch 00004: val_loss improved from 0.02635 to 0.02282, saving model to model_best.h5
+19945/19945 [==============================] - 4993s 250ms/step - loss: 0.0395 - acc: 0.9854 - val_loss: 0.0228 - val_acc: 0.9918
+Epoch 5/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0311 - acc: 0.9888
+Epoch 00005: val_loss improved from 0.02282 to 0.02017, saving model to model_best.h5
+19945/19945 [==============================] - 6052s 303ms/step - loss: 0.0311 - acc: 0.9888 - val_loss: 0.0202 - val_acc: 0.9928
+Epoch 6/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0237 - acc: 0.9920
+Epoch 00006: val_loss improved from 0.02017 to 0.01880, saving model to model_best.h5
+19945/19945 [==============================] - 5140s 258ms/step - loss: 0.0237 - acc: 0.9920 - val_loss: 0.0188 - val_acc: 0.9936
+Epoch 7/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0218 - acc: 0.9919
+Epoch 00007: val_loss did not improve
+19945/19945 [==============================] - 5105s 256ms/step - loss: 0.0218 - acc: 0.9919 - val_loss: 0.0189 - val_acc: 0.9930
+Epoch 8/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0199 - acc: 0.9929
+Epoch 00008: val_loss improved from 0.01880 to 0.01825, saving model to model_best.h5
+19945/19945 [==============================] - 5025s 252ms/step - loss: 0.0199 - acc: 0.9929 - val_loss: 0.0183 - val_acc: 0.9934
+Epoch 9/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0162 - acc: 0.9948
+Epoch 00009: val_loss did not improve
+19945/19945 [==============================] - 5006s 251ms/step - loss: 0.0162 - acc: 0.9948 - val_loss: 0.0190 - val_acc: 0.9928
+Epoch 10/10
+19936/19945 [============================>.] - ETA: 2s - loss: 0.0139 - acc: 0.9959
+Epoch 00010: val_loss improved from 0.01825 to 0.01776, saving model to model_best.h5
+19945/19945 [==============================] - 5039s 253ms/step - loss: 0.0139 - acc: 0.9958 - val_loss: 0.0178 - val_acc: 0.9932
