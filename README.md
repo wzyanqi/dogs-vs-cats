@@ -3,6 +3,7 @@
 
 ### 项目资料
 数据集下载：[训练集 + 测试集](https://www.kaggle.com/c/dogs-vs-cats/data)  ，kaggle一共提供了两个数据集train与test。其中train set包含25000个样本，cat和dog各12500个。
+
 ![](https://i.imgur.com/kS76chv.jpg)  
 test set包含12500张图片，但没有分类。  
 ![](https://i.imgur.com/BW4ga6N.jpg)
